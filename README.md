@@ -38,7 +38,7 @@ List of important ports that should be tested on each target
 10050,10051 - Zabbix
 3000 - grafana
 23560 - PRTG Monitoring
-
+```
 # Nmap PortScan
 With the NAMP tool, we can test the following command to scan important protocols on a target
 
