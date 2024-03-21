@@ -43,4 +43,6 @@ List of important ports that should be tested on each target
 With the NAMP tool, we can test the following command to scan important protocols on a target
 
 #Nmap Command
+```bash
 nmap -vv -sV -p 22,23,25,21,53,80,110,143,443,445,139,389,587,993,995,1433,3306,3389,1194,1723,4500,5432,5900,53,123,161,162,1521,27017,27019,5601,9200,9300,8000,8089,9997,10050,10051,3000,23560 targetip
+```
